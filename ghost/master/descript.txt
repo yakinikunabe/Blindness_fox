@@ -1,0 +1,14 @@
+charset,Shift_JIS
+
+craftman,Sadayosi_Kun
+craftmanw,Ä“÷“çŒN
+craftmanurl,http://cornercardboard.web.fc2.com/index.html
+
+name,–Ó–ÚŒÏ
+type,ghost
+
+sakura.name,[á
+kero.name,
+
+icon,fox.ico
+shiori,satori.dll

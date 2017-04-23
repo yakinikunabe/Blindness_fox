@@ -1,0 +1,7 @@
+charset, Shift_JIS
+type,ghost
+name,–Ó–ÚŒÏ
+directory,Blindness_fox
+
+refresh,1
+refreshundeletemask,satori_savedata.txt
