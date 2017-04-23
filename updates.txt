@@ -8,7 +8,7 @@ file,ghost/master/dic02_Event.txtd329aa634eb30a959df7925a9b5a8881size=9575
 file,ghost/master/dic03_Menu.txtcd53a19d9e6984f80b7d832b32e8f44asize=19931
 file,ghost/master/dic04_Change.txt48b12690d52b9b06240988a6b13d1780size=6542
 file,ghost/master/dic05_Communicate.txt8617c731866d9223e707f2d407d455d9size=3069
-file,ghost/master/dic06_String.txt15f83413d3f3dc84e92243dd29049d2csize=3404
+file,ghost/master/dic06_String.txt450f0e8b63737aa3bb21b87e50c4f198size=3411
 file,ghost/master/dic07_Time.txt5f06028d185de54310dd77631ac734afsize=12943
 file,ghost/master/dic08_touch.txtdd51dc7797b73286e4b75a1b2a477219size=31494
 file,ghost/master/dic09_ExEvent.txtd5c4fc5c20019ba885e60215f6b5478csize=5627
@@ -26,7 +26,7 @@ file,ghost/master/sister_1/dic02_Event_s1.txtee06171f732819972bcf5e867b1a99ces
 file,ghost/master/sister_1/dic03_Menu_s1.txtf9e2790669541630596fe25754af65f9size=4614
 file,ghost/master/sister_1/dic04_Change_s1.txt7aa876d66c73c75b42e33b67fff7c6a4size=8441
 file,ghost/master/sister_1/dic05_Communicate_s1.txt3d69076845aad9b75a1c65a315ade21csize=2675
-file,ghost/master/sister_1/dic06_String_s1.txt017e113b184e1ae1b0f04a465bf2ff17size=3363
+file,ghost/master/sister_1/dic06_String_s1.txt93e4fd2b97d217630141d84f8466bbefsize=3370
 file,ghost/master/sister_1/dic07_Time_s1.txtc8eedd0296b08b891e7078d71b61429bsize=13885
 file,ghost/master/sister_1/dic08_touch_s1.txtbc5fc1e7f47786a36670aec2f61b2415size=32059
 file,ghost/master/sister_1/dic09_ExEvent_s1.txtd5c4fc5c20019ba885e60215f6b5478csize=5627
